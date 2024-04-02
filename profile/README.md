@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="https://media.discordapp.net/attachments/1224558178109231158/1224574159460499558/Splash.png?ex=661dfc8f&is=660b878f&hm=ba439d91e8049800542ce858c4ae05b860ed8b170cabe69c1b0cfed96650516f&=&format=webp&quality=lossless&width=1440&height=480">
+<h1>Discordjs Silicon?</h1>
+We develop tools that helps you develop bots more easily through <a href="">Discordjs Silicon</a>
